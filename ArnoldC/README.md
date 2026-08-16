@@ -14,7 +14,7 @@ ArnoldC to ezoteryczny język programowania, w którym słowa kluczowe zostały 
 - [x] Największy Wspólny Dzielnik (NWD)
 - [x] Sprawdzanie liczby pierwszej
 - [x] Rozkład na czynniki pierwsze
-- [ ] Silnia
+- [x] Silnia
 
 ## Instrukcja uruchomienia
 
@@ -47,7 +47,7 @@ ArnoldC is an esoteric programming language where standard keywords are replaced
 - [x] Greatest Common Divisor (GCD)
 - [x] Prime number check
 - [x] Prime factorization
-- [ ] Factorial
+- [x] Factorial
 
 ## Execution Guide
 
