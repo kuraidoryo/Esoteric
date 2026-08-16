@@ -11,7 +11,7 @@ ArnoldC to ezoteryczny język programowania, w którym słowa kluczowe zostały 
 ## Status algorytmów
 
 - [x] **Ciąg Fibonacciego** (`fibonacci.arnoldc`)
-- [ ] Największy Wspólny Dzielnik (NWD)
+- [x] Największy Wspólny Dzielnik (NWD)
 - [ ] Sprawdzanie liczby pierwszej
 - [ ] Rozkład na czynniki pierwsze
 - [ ] Silnia
