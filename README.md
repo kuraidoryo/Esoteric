@@ -5,6 +5,7 @@
 ## Opis projektu
 
 Projekt zawiera implementacje wybranych algorytmów matematycznych w różnych ezoterycznych językach programowania (esolangs).
+Cały kod został napisany bez uzycia SI, jedynie z dokumentacji danego języka.
 
 ## Implementowane algorytmy
 
@@ -28,6 +29,7 @@ Dla każdego języka realizowany jest zestaw następujących algorytmów:
 ## Project Overview
 
 This repository contains implementations of selected mathematical algorithms in various esoteric programming languages (esolangs).
+The entire code was written without the use of AI, relying solely on the language's documentation.
 
 ## Implemented Algorithms
 

@@ -12,7 +12,7 @@ ArnoldC to ezoteryczny język programowania, w którym słowa kluczowe zostały 
 
 - [x] **Ciąg Fibonacciego** (`fibonacci.arnoldc`)
 - [x] Największy Wspólny Dzielnik (NWD)
-- [ ] Sprawdzanie liczby pierwszej
+- [X] Sprawdzanie liczby pierwszej
 - [ ] Rozkład na czynniki pierwsze
 - [ ] Silnia
 
@@ -44,8 +44,8 @@ ArnoldC is an esoteric programming language where standard keywords are replaced
 ## Algorithm Status
 
 - [x] **Fibonacci sequence** (`fibonacci.arnoldc`)
-- [ ] Greatest Common Divisor (GCD)
-- [ ] Prime number check
+- [x] Greatest Common Divisor (GCD)
+- [X] Prime number check
 - [ ] Prime factorization
 - [ ] Factorial
 
