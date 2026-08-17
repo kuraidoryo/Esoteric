@@ -12,7 +12,7 @@ LolCode (LOLCODE) to ezoteryczny język programowania zaprojektowany w 2007 roku
 
 - [x] **Ciąg Fibonacciego** (`fibonacci.lol`)
 - [x] **Największy Wspólny Dzielnik (NWD)** (`gcd.lol`)
-- [ ] Sprawdzanie liczby pierwszej
+- [x] **Sprawdzanie liczby pierwszej** (`is_prime.lol`)
 - [ ] Rozkład na czynniki pierwsze
 - [ ] Silnia
 
@@ -50,7 +50,7 @@ LOLCODE is an esoteric programming language created in 2007 by Adam Lindsay, ins
 
 - [x] **Fibonacci sequence** (`fibonacci.lol`)
 - [x] **Greatest Common Divisor (GCD)** (`gcd.lol`)
-- [ ] Prime number check
+- [x] **Prime number check** (`is_prime.lol`)
 - [ ] Prime factorization
 - [ ] Factorial
 
