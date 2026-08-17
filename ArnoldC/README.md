@@ -11,10 +11,10 @@ ArnoldC to ezoteryczny język programowania, w którym słowa kluczowe zostały 
 ## Status algorytmów
 
 - [x] **Ciąg Fibonacciego** (`fibonacci.arnoldc`)
-- [x] Największy Wspólny Dzielnik (NWD)
-- [x] Sprawdzanie liczby pierwszej
-- [x] Rozkład na czynniki pierwsze
-- [x] Silnia
+- [x] **Największy Wspólny Dzielnik (NWD)** (`gcd.arnoldc`)
+- [x] **Sprawdzanie liczby pierwszej** (`is_prime.arnoldc`)
+- [x] **Rozkład na czynniki pierwsze** (`prime_factorization.arnoldc`)
+- [x] **Silnia** (`factorial.arnoldc`)
 
 ## Instrukcja uruchomienia
 
@@ -23,7 +23,7 @@ Do kompilacji i uruchomienia programów napisanych w ArnoldC wymagane jest środ
 1. Pobierz plik kompilatora `ArnoldC.jar`.
 2. Skompiluj kod źródłowy do pliku `.class`:
    ```bash
-   java -jar ArnoldC.jar "Nazwa Pliku".arnoldc
+   java -jar ArnoldC.jar "Nazwa Pliku.arnoldc"
    ```
 3. Uruchom wygenerowany program:
    ```bash
@@ -44,10 +44,10 @@ ArnoldC is an esoteric programming language where standard keywords are replaced
 ## Algorithm Status
 
 - [x] **Fibonacci sequence** (`fibonacci.arnoldc`)
-- [x] Greatest Common Divisor (GCD)
-- [x] Prime number check
-- [x] Prime factorization
-- [x] Factorial
+- [x] **Greatest Common Divisor (GCD)** (`gcd.arnoldc`)
+- [x] **Prime number check** (`is_prime.arnoldc`)
+- [x] **Prime factorization** (`prime_factorization.arnoldc`)
+- [x] **Factorial** (`factorial.arnoldc`)
 
 ## Execution Guide
 
@@ -56,7 +56,7 @@ Java Runtime Environment (JRE/JDK) is required to compile and run ArnoldC code.
 1. Download the `ArnoldC.jar` compiler.
 2. Compile the source code into a `.class` file:
    ```bash
-   java -jar ArnoldC.jar "File Name".arnoldc
+   java -jar ArnoldC.jar "File Name.arnoldc"
    ```
 3. Execute the compiled program:
    ```bash
