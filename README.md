@@ -20,6 +20,7 @@ Dla każdego języka realizowany jest zestaw następujących algorytmów:
 ## Języki
 
 - [ArnoldC](./ArnoldC/README.md) – język oparty na cytatach z filmów z udziałem Arnolda Schwarzeneggera.
+- [LolCode](./LolCode/README.md) - język zainspirowany memami internetowymi z udziałem kotów (lolcats).
 
 ---
 
@@ -44,3 +45,4 @@ For each language, the following set of algorithms is implemented:
 ## Languages
 
 - [ArnoldC](./ArnoldC/README.md) – A programming language based on one-liners from Arnold Schwarzenegger movies.
+- [LolCode](./LolCode/README.md) - A programming language inspired by internet memes featuring cats (lolcats).
