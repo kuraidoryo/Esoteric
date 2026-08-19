@@ -22,7 +22,6 @@ b IS NOW A NUMBR
 
 I HAS A res
 res R I IZ gcd YR a AN YR b MKAY
-res IS NOW A NUMBR
 
 VISIBLE res
 

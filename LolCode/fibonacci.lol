@@ -1,6 +1,7 @@
 HAI 1.2
 
 HOW IZ I fibonacci YR n
+
     BOTH SAEM n AN SMALLR OF n AN 1
     O RLY?
         YA RLY
@@ -12,13 +13,12 @@ HOW IZ I fibonacci YR n
     OIC
 IF U SAY SO
 
-I HAS A n
-GIMMEH n
-n IS NOW A NUMBR
+I HAS A num
+GIMMEH num
+num IS NOW A NUMBR
 
 I HAS A res
-res R I IZ fibonacci YR n MKAY
-res IS NOW A NUMBR
+res R I IZ fibonacci YR num MKAY
 
 VISIBLE res
 

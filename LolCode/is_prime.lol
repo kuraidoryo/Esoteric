@@ -44,12 +44,12 @@ HOW IZ I isPrime YR n
 
 IF U SAY SO
 
-I HAS A n
-GIMMEH n
-n IS NOW A NUMBR
+I HAS A num
+GIMMEH num
+num IS NOW A NUMBR
 
 I HAS A res
-res R I IZ isPrime YR n MKAY
+res R I IZ isPrime YR num MKAY
 
 res
 O RLY?
