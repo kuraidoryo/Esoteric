@@ -23,11 +23,11 @@ Do kompilacji i uruchomienia programów napisanych w ArnoldC wymagane jest środ
 1. Pobierz plik kompilatora `ArnoldC.jar`.
 2. Skompiluj kod źródłowy do pliku `.class`:
    ```bash
-   java -jar ArnoldC.jar "Nazwa Pliku.arnoldc"
+   java -jar ArnoldC.jar "NazwaPliku.arnoldc"
    ```
 3. Uruchom wygenerowany program:
    ```bash
-   java "Nazwa Pliku"
+   java "NazwaPliku"
    ```
 
 ---
@@ -56,9 +56,9 @@ Java Runtime Environment (JRE/JDK) is required to compile and run ArnoldC code.
 1. Download the `ArnoldC.jar` compiler.
 2. Compile the source code into a `.class` file:
    ```bash
-   java -jar ArnoldC.jar "File Name.arnoldc"
+   java -jar ArnoldC.jar "FileName.arnoldc"
    ```
 3. Execute the compiled program:
    ```bash
-   java "File Name"
+   java "FileName"
    ```

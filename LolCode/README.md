@@ -32,7 +32,7 @@ Dla systemu Windows polecam używanie WSL.
    ```
 2. Uruchom program:
    ```bash
-   lci "Nazwa Pliku.lol"
+   lci "NazwaPliku.lol"
    ```
 
 ---
@@ -70,5 +70,5 @@ For Windows, I recommend using WSL.
    ```
 2. Run the program:
    ```bash
-   lci "File Name.lol"
+   lci "FileName.lol"
    ```
