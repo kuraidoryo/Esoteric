@@ -1,0 +1,40 @@
+{
+  "mod": {
+    "=-": {
+      "in1": "=a",
+      "in2": {
+        "=*": {
+          "in1": { "=|": { "in1": {"=/": {"in1": "=a", "in2": "=b"}}, "in2": 0 } },
+          "in2": "=b"
+        }
+      }
+    }
+  },
+  "pf_helper": {
+    "=if": {
+      "cond": {"=>": {"in1": {"=*": {"in1": "=i", "in2": "=i"}}, "in2": "=n"}},
+      "then": {
+        "=if": {
+          "cond": {"=>": {"in1": "=n", "in2": 1}},
+          "then": {"=arr.append": {"arr": "=acc", "e": "=n"}},
+          "else": "=acc"
+        }
+      },
+      "else": {
+        "=if": {
+          "cond": {"===": {"in1": {"=mod": {"a": "=n", "b": "=i"}}, "in2": 0}},
+          "then": {"=pf_helper": {
+              "n": {"=|": {"in1": {"=/": {"in1": "=n", "in2": "=i"}}, "in2": 0}},
+              "i": "=i",
+              "acc": {"=arr.append": {"arr": "=acc", "e": "=i"}}
+          }},
+          "else": {"=pf_helper": {"n": "=n", "i": {"=+": {"in1": "=i", "in2": 1}}, "acc": "=acc"}}
+        }
+      }
+    }
+  },
+  "prime_factorization": {
+    "=pf_helper": {"n": "=n", "i": 2, "acc": []}
+  },
+  "=prime_factorization": {"n": 64}
+}

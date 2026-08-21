@@ -13,7 +13,7 @@ Ajsone to ezoteryczny język programowania, w którym cały kod źródłowy zapi
 - [x] **Ciąg Fibonacciego** (`fibonacci.json`)
 - [x] **Największy Wspólny Dzielnik (NWD)** (`gcd.json`)
 - [x] **Sprawdzanie liczby pierwszej** (`is_prime.json`)
-- [ ] Rozkład na czynniki pierwsze
+- [x] **Rozkład na czynniki pierwsze** (`prime_factorization.json`)
 - [x] **Silnia** (`factorial.json`)
 
 ## Instrukcja uruchomienia
@@ -45,7 +45,7 @@ Ajsone is an esoteric programming language where the entire program structure is
 - [x] **Fibonacci sequence** (`fibonacci.json`)
 - [x] **Greatest Common Divisor (GCD)** (`gcd.json`)
 - [x] **Prime number check** (`is_prime.json`)
-- [ ] Prime factorization
+- [x] **Prime factorization** (`prime_factorization.json`)
 - [x] **Factorial** (`factorial.json`)
 
 ## Execution Guide
