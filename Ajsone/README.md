@@ -11,7 +11,7 @@ Ajsone to ezoteryczny język programowania, w którym cały kod źródłowy zapi
 ## Status algorytmów
 
 - [x] **Ciąg Fibonacciego** (`fibonacci.json`)
-- [ ] Największy Wspólny Dzielnik (NWD)
+- [x] **Największy Wspólny Dzielnik (NWD)** (`gcd.json`)
 - [ ] Sprawdzanie liczby pierwszej
 - [ ] Rozkład na czynniki pierwsze
 - [x] **Silnia** (`factorial.json`)
@@ -43,7 +43,7 @@ Ajsone is an esoteric programming language where the entire program structure is
 ## Algorithm Status
 
 - [x] **Fibonacci sequence** (`fibonacci.json`)
-- [ ] Greatest Common Divisor (GCD)
+- [x] **Greatest Common Divisor (GCD)** (`gcd.json`)
 - [ ] Prime number check
 - [ ] Prime factorization
 - [x] **Factorial** (`factorial.json`)
